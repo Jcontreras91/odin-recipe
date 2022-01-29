@@ -1,0 +1,25 @@
+.header {
+    color: lightblue;
+    text-align: center;
+    font-size: 60px
+}
+
+.braised-beef{
+    width:500px;
+    height: auto;
+}
+.beef,
+.grilled-cheese,
+.cachapas {
+    color: lightblue;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.description{
+    color:lightblue;
+    text-align: left;
+    font-size:30px
+}
+
+}

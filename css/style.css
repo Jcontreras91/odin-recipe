@@ -16,10 +16,16 @@
     font-size: 30px;
 }
 
-.description{
+.Description,
+.Ingredients,
+.Process{
     color:lightblue;
     text-align: left;
     font-size:30px
 }
 
+.description-text,
+.ul-text,
+.ol-text{
+    font-size: 20px
 }
